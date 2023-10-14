@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "controls": "^0.7.5",
+    "postprocessing": "^6.33.2",
+    "three": "^0.157.0"
+  }
+}
